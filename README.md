@@ -4,6 +4,10 @@ This repository contains the empirical, conceptual, and documentary materials su
 
 **“Autonomous Risk: When Intelligent Systems Become Dangerous Without Failing”**
 
+> Menezes, E. P. (2026)  
+> AI & Society  
+> https://doi.org/10.1007/s00146-026-03053-2
+
 The project investigates how intelligent systems may become structurally dangerous without exhibiting explicit technical failure, introducing *autonomous risk* as a dynamic, path-dependent property emerging from the interaction between autonomy, opacity, supervision, and instability.
 
 The repository is organized to support transparency, reproducibility, and methodological auditability for reviewers and researchers.
@@ -139,6 +143,6 @@ This study uses entirely synthetic data to explore structural risk mechanisms wi
 
 ---
 
-## License and Usage
+## ⚖️ License
 
-This repository is provided for academic and research purposes.
+This project is licensed under the Apache License 2.0.
