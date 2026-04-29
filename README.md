@@ -119,7 +119,7 @@ Environment specifications for reproducibility.
 
 ---
 
-## Purpose and Scope
+## 🎯 Purpose and Scope
 
 This repository is intended to support:
 
@@ -131,7 +131,7 @@ It is **not** intended as a production-ready system or benchmark.
 
 ---
 
-## Ethical Note
+## ⚠️ Ethical Note
 
 This study uses entirely synthetic data to explore structural risk mechanisms without exposing real individuals or institutions to harm.
 
