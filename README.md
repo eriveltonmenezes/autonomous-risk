@@ -1,10 +1,10 @@
-# 🔬 Repository DOI
+## 🔬 Repository DOI
 
 This repository is archived on Zenodo:
 
 [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.20074044.svg)](https://doi.org/10.5281/zenodo.20074044)
 
-# Autonomous Risk: Empirical and Conceptual Notebooks
+## Autonomous Risk: Empirical and Conceptual Notebooks
 
 This repository contains the empirical, conceptual, and documentary materials supporting the article:
 
