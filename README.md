@@ -2,7 +2,7 @@
 
 This repository is archived on Zenodo:
 
-[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.20074044.svg)](https://doi.org/10.5281/zenodo.20074044)
+[![DOI](https://img.shields.io/badge/DOI-10.5281%2Fzenodo.20074044-blue)](https://doi.org/10.5281/zenodo.20074044)
 
 ## Autonomous Risk: Empirical and Conceptual Notebooks
 
